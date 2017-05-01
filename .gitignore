@@ -2,3 +2,4 @@
 *idea*
 *.iml
 *__init__.pyc*
+.DS_Store
